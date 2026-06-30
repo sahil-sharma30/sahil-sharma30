@@ -8,7 +8,7 @@ I am a Computer Engineering student currently in my 3rd semester, specializing i
 *   **Current Sprint:** Implementing time-and-space-optimal solutions for standard sorting, searching, and array manipulation problems.
 
 ### 🚀 Featured Infrastructure
-*   📌 **[dsa-masterclass](https://github.com/sahil-sharma30/dsa-masterclass)** - A comprehensive library of C++ solutions mapping out algorithmic patterns and complexity analysis for core computer science problems.
+*   📌 **[dsa-journey](https://github.com/sahil-sharma30/dsa-journey)** - A comprehensive library of C++ solutions mapping out algorithmic patterns and complexity analysis for core computer science problems.
 
 ### 📫 Let's Connect
 *   🎓 Student at MBIT (Madhuben & Bhanubhai Patel Institute of Technology)
